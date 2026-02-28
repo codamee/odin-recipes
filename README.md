@@ -11,7 +11,7 @@ The goal of this project was to demonstrate mastery of core **HTML** concepts be
 * **Git Workflow:** Initializing a repository, committing changes with descriptive messages, and pushing to a remote server.
 
 ## 🚀 Live Demo
-[View the Live Project Here](https://your-username.github.io/odin-recipes/)
+[View the Live Project Here](https://codamee.github.io/odin-recipes/))
 
 ---
 *This project marks the beginning of my journey to becoming a Full-Stack Developer.*
